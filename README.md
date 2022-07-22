@@ -1,7 +1,6 @@
 # coffee_app
 ![1658418258836](https://user-images.githubusercontent.com/98849270/180313572-36b691b0-fba7-472e-898d-c7220d9d9cc6.jpg)
 
-A new Flutter project.
 
 Reference design : https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode
 
